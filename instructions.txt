@@ -1,0 +1,19 @@
+S'assurer que Python est installé sur votre système. Vous pouvez vérifier cela en ouvrant une ligne de commande ou un terminal et en tapant la commande suivante :python --version
+Cela devrait afficher la version de Python installée sur votre ordinateur. Si Python n'est pas installé, vous pouvez le télécharger et l'installer depuis le site officiel de Python (https://www.python.org/downloads/).
+
+Placez le fichier "code.py" dans un répertoire de votre choix sur votre ordinateur.
+
+Ouvrez une ligne de commande ou un terminal.
+
+Naviguez jusqu'au répertoire contenant le fichier "code.py". Vous pouvez le faire en utilisant la commande "cd" (Change Directory) dans le terminal. Par exemple, si le fichier "code.py" est dans le dossier "MonProjet", utilisez la commande suivante :
+cd /chemin/vers/MonProjet
+Une fois que vous êtes dans le bon répertoire, vous pouvez exécuter le code Python en utilisant la commande suivante :
+python code.py
+Cela exécutera le fichier "code.py" avec l'interpréteur Python, et le résultat du programme, s'il y en a un, sera affiché dans le terminal.
+
+S'assurer d'avoir les bonnes permissions pour exécuter le fichier "code.py". Si vous rencontrez des problèmes, assurez-vous que le fichier a l'extension ".py" et que le chemin vers le fichier est correctement spécifié.
+
+
+
+
+
